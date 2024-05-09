@@ -23,8 +23,8 @@ This project is built using the following technologies:
 
 ## Contributors
 
-- **Harshit Tomar (GitHub: harshittomar11, Roll No: 2201AI15):** Contributed to the frontend development, including the design and layout of web pages.
-- **Deep Das (GitHub: deepdas, Roll No: 2201AI55):** Contributed to the backend development, including database management and server-side scripting.
+- **Harshit Tomar ( Roll No: 2201AI15):** Contributed to the frontend development, including the design and layout of web pages.
+- **Deep Das ( Roll No: 2201AI55):** Contributed to the backend development, including database management and server-side scripting.
 
 ## Getting Started
 
